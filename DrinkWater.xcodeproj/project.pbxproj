@@ -17,6 +17,7 @@
 		277EF0E929232F1300878029 /* AlertListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 277EF0E729232F1300878029 /* AlertListCell.xib */; };
 		277EF0EB292330BE00878029 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277EF0EA292330BE00878029 /* Alert.swift */; };
 		277EF0ED2923325300878029 /* AddAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277EF0EC2923325300878029 /* AddAlertViewController.swift */; };
+		277EF0EF29238FB900878029 /* UNUserNotificationCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277EF0EE29238FB900878029 /* UNUserNotificationCenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		277EF0E729232F1300878029 /* AlertListCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AlertListCell.xib; sourceTree = "<group>"; };
 		277EF0EA292330BE00878029 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		277EF0EC2923325300878029 /* AddAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAlertViewController.swift; sourceTree = "<group>"; };
+		277EF0EE29238FB900878029 /* UNUserNotificationCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNUserNotificationCenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				277EF0E729232F1300878029 /* AlertListCell.xib */,
 				277EF0EA292330BE00878029 /* Alert.swift */,
 				277EF0EC2923325300878029 /* AddAlertViewController.swift */,
+				277EF0EE29238FB900878029 /* UNUserNotificationCenter.swift */,
 			);
 			path = DrinkWater;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				277EF0EB292330BE00878029 /* Alert.swift in Sources */,
 				277EF0E529232D0A00878029 /* AlertListViewController.swift in Sources */,
 				277EF0ED2923325300878029 /* AddAlertViewController.swift in Sources */,
+				277EF0EF29238FB900878029 /* UNUserNotificationCenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
